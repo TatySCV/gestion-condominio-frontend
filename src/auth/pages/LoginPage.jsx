@@ -82,7 +82,7 @@ const LoginPage = () => {
 
             <p className="text-center text-gray-600">
               ¿No tienes cuenta?{" "}
-              <LinkButton href="#" className="text-purple-600">
+              <LinkButton href="/register" className="text-purple-600">
                 Regístrate aquí
               </LinkButton>
             </p>
